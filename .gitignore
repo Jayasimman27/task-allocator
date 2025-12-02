@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local DB file
+backend/tasks.json
+
+# Streamlit secrets (optional)
+.streamlit/
+
+# Virtual environment
+venv/
+.venv/
