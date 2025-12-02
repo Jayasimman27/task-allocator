@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+tinydb
+streamlit
+openai
+requests
+python-dotenv
+google-genai

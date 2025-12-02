@@ -1,0 +1,28 @@
+Your job is to FIX or REBUILD the following JSON so that it becomes valid.
+
+Rules:
+- Always output a complete JSON object with this structure:
+
+{
+  "tasks": [
+    {
+      "task": "",
+      "priority": "",
+      "category": "",
+      "estimated_minutes": 0,
+      "deadline": null,
+      "tags": []
+    }
+  ]
+}
+
+- If the input JSON cannot be repaired, CREATE an EMPTY structure:
+{
+  "tasks": []
+}
+
+- Do not output explanations.
+- Do not write comments.
+- Do not include text outside JSON.
+
+Broken JSON:
